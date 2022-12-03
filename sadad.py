@@ -6,3 +6,5 @@ def r():
 r()
 a = r
 print(a)
+
+print('ИЗМЕНЕНИЯ')
